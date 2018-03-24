@@ -1,4 +1,4 @@
-#Copyright mysterme@gmail.com CC-BY-SA 3.0
+#Copyright mysterme at gmail dot com CC-BY-SA 3.0
 
 import os, time
 import datetime

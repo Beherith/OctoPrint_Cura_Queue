@@ -1,3 +1,5 @@
+#Copyright mysterme@gmail.com CC-BY-SA 3.0
+
 import os, time
 import datetime
 path_to_watch = "/home/pi/.octoprint/uploads/"

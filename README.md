@@ -8,7 +8,9 @@ Thus if [anything].gcode is a file under printing, it will also print the new fi
 How to install: 
 1. copy octoqueue.py onto the raspi, e.g. to /home/pi
 2. optionally add 
+
 (sleep 10; python /home/pi/octoqueue.py >> /home/pi/octoqueue.log)&
+
 to your /etc/rc.local file to make the script run from start up
 
 How to use:
